@@ -1,1 +1,1 @@
-# tf-practice-vpc
+# Terraform code to create VPC with 3x public subnets and 3x private subnets.
